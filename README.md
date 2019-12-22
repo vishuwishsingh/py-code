@@ -1,5 +1,5 @@
 # py-code
 
-![](PY.png)
+![](Py.png)
 
 my py sample code
