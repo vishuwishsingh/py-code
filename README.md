@@ -2,4 +2,4 @@
 
 ![](Py.png)
 
-my py sample code
+PY sample code
