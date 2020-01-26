@@ -1,3 +1,10 @@
+>>> import folium
+>>> map = folium.Map(location=[50,-86])
+>>> map.save("Test.html")
+
+## layers comes from open street map 
+
+
 In the next lecture I use this in the code:
 
 tiles = "Mapbox Bright"
