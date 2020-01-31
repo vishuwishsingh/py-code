@@ -8,7 +8,7 @@ Name = input("What is Your Name :")
 Location = input("Where are you from :")
 count_by = int(input("Count by ?? "))
 
-print(f"Hi {Name} from {Location} py Number Counter , count by {count_by} ")
+print(f"Hi {Name} from {Location} py Number Counter , count by {count_by}")
 
  
 i = 0 
